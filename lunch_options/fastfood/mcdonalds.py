@@ -1,2 +1,2 @@
 def food():
-    print('McRib')
+    print('McChicken')
